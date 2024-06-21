@@ -1,0 +1,13 @@
+[05-Mar-2024 21:16:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function c²&†d7g3ohDjbafç8;Øªf)7cãc4RHd() in /home/tooraba1/public_html/sojathenna/en/idea/utyxogef.php:98
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/en/idea/utyxogef.php(110): is12(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/en/idea/utyxogef.php on line 98
+[05-Mar-2024 21:17:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 5?dbad1-FK7Sb™fi˜7aFº©57Ç8bfÍ7óc-4´6	-hb;,uãdb"–fd·Á3z¹hl/8‚¦-;ã3mÀt”5dMÒb±*f3ndé¯†d7a3wIaf5808of"i3c-445y$bab
+-&¢9f
+d7a3zIjf5878Òf-7m3c!449dµ’ß\±-g=ƒîbfvdGmÓ*Iaf5¨7;€†-Ÿd6c-44•´MkaA‘-•63bn9ffd2n9zNaf56Hbf-c3c46µ”|ga-c66dZìÖÖê7aÓÚæŞb3>7˜bf'7Ó3cÍÔÔÆŸ"lb6İÛW3ddyfö`×j˜zEf5Ø78bf]À	Ãc-59õl'²¶i1!c6—4’™ifh7aÃq‰ûh589Ø§f-7h3cíô45d-‚lbA-Ã6() in /home/tooraba1/public_html/sojathenna/en/idea/utyxogef.php:98
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/en/idea/utyxogef.php(110): is12(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/en/idea/utyxogef.php on line 98
+[06-Mar-2024 00:09:04 UTC] PHP Fatal error:  Cannot redeclare gp11() (previously declared in /home/tooraba1/public_html/sojathenna/en/idea/utyxogef.php:70) in /home/tooraba1/public_html/sojathenna/en/idea/utyxogef.php on line 70

@@ -1,0 +1,5 @@
+User-Agent : *
+sitemap: http://sojathenna.info/Sitemap_4811748_0.xml
+#Begin Attracta SEO Tools Sitemap. Do not remove
+sitemap: http://cdn.attracta.com/sitemap/4811748.xml.gz
+#End Attracta SEO Tools Sitemap. Do not remove

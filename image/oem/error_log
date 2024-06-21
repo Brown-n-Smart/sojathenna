@@ -1,0 +1,4 @@
+[05-Mar-2024 21:17:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function chbe}() in /home/tooraba1/public_html/sojathenna/image/oem/profile.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/image/oem/profile.php on line 89

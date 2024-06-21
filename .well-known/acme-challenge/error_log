@@ -1,0 +1,37 @@
+[05-Jan-2024 01:26:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function <®1bg7c0»djLNâV[dê;Ñ1b4-69cı-$c:e-:6() in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php:106
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php(122): ee11(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php on line 106
+[05-Jan-2024 01:28:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function :81h7C04da7Zàj90819tç60ìôùæcy’(9b36-<h¡2d6a04da«N() in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php:106
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php(122): ee11(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php on line 106
+[16-Jan-2024 04:26:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ¬?1lÑ7c=>da;¶x0f<P8124-0;hï-c4e-4b80-28N¿d7c04d17Vx0() ?÷¬4-∆2ì5 4Sòe-8ø‚6,280bd5”:4ni'_ëﬂf90h124(6:c?4Sπe*€¢»ñ-281“ƒ;c0$4Ò76x1VV0123∑‹9c’&4$d9r8< ?»1ld7c04dÅ7Ur0hY01‚ƒ() in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php:106
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php(122): ee11(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php on line 106
+[16-Jan-2024 04:29:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function œl0u-9n9÷ 22Ín‘«cõÑda'≥gYá_WÓf008924âú7Ø5-$f9i-9b86-281bƒ5l0$ma7slY`¬äN>g9ö
+12-69o5-êcÈe-<b86J231bj0c04da7~±πWÆWI0m918
+24 69cË-‘c9n-9k6Õ¬81gDÁg=4dÅGs`YwRÍf90®1s≠v9cÖ.Ùc_’-Ÿb86"2s7Ådì˜4oa7s´_VR7D<Ê9=≈°C-Ê9j5-ÿi6e-9Â<›23ïbo7i04d—7}kYZRWÓf90’121+6<oU]4m9e-9Ç;6"281bd7o0da7skYX“WŒ0Ü9;83bÑ-:9ì5-;>ôe-3b5ñ"¬01Ød∑c04da7skVWRWN00P8ë0î() in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php:106
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php(122): ee11(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php on line 106
+[17-Jan-2024 19:42:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function êeù<b7˚ü281bd7l04dÒ;®B0=9681=4$>:≥;-¥cÁµI0b2à¿281adP307ik8HB0k80>?4-67c8-4m:e-…b06-28?íh9´Ä4da7¯B>ˆ=08<bu-∆?c5() in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php:106
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php(122): ee11(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php on line 106
+[08-Feb-2024 04:11:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 3“89-2Àrî7X4mÒ7_fvuVEã¶d0»124-2πnï-4≥9e/YB0;•266b¥◊m04ÒÓ_h∫õVEØ¶408≠2? 69c5&‘O0e-9‚8=-B51adÇ√¶4df7ThQpvE=f901124$69cı˝2a;e-r<ñ-¬81bn7c04ic7XhUpvE() in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php:106
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php(122): ee11(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php on line 106
+[08-Feb-2024 04:14:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Ym->û86() in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php:106
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php(122): ee11(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/.well-known/acme-challenge/obgoblhg.php on line 106

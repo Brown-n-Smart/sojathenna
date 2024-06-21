@@ -1,0 +1,21 @@
+[05-Mar-2024 21:14:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 4›aÖ-952-"<àdd9fbUe6†l‘Ø550d44Ý·`19½42cí7058-2kÎ9fˆ=Õ6Ën5eð51n7ô†œÝ=Ó42a&™œ5‰-ŽrPcT9fb0eÆ6mˆeå¯44-÷bY4 491n/98Oˆ-2â0c`™kbËxbíc8eµ¼0d4Ð2h13\92a–-9858-225ck9fb0ef6m8e55‚¨18,7i10-	6áf-ù8Õv-2E dd?hb0e:6•e5?=f9Wb;3ÝÔ2af-9857!2?0)nùfb0i26b8¦2€d´4-‡Ì1ã-6’f() in /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php:79
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php(90): yy12(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php on line 79
+[05-Mar-2024 21:15:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function çbëã,žÂaf-‰;58-220cc3fÒ0¥¶;s¶H£L¸gÂ3d4?í7²13->Âjc‡98Õè-280dd96b2j;<sFhãB8e•:0d4$…Í3-4á‘V+É>5-22µdt9fo0k6ösFhC²<e5¥0j44-÷R1¼"4þa†'9158-²20´d9fb e<qKbCBe845`Ôôý7b13-4ÂafŠ;5ˆå4â0ddYf0eö5F˜³’85<?¹d?:Í7n13-42h¦&4<8è+220nd9nb eö6sFhCBxe\50‰”-<b!>rd«-984>-8B0Ôd9fo0e66sFbGBe4=0T”4(7¢14_Ùâa:9<5øÍ224ad9m²8€6ÆHƒ­8ž%5Pd4”-7b›3-Ä2–fÍy858Ó2Â0dd9Ëo…6–SF(¦ò8…9=0dt6´7bA3Í42a¦*yvõ8-80ei3iÈ0e6ásKhCL8e50d<:-Öb63-Ô=ah}985<-820dª9fh0k56sFnCI7Å8…00”*7bñ=-™2af-ø-2=0dm©jh;e56sFhGBhe5%0i„Ä,çbÁ3]4Âafí0êÝa&2B@$t9fb0eŠÌxFèp894]d44½7b13(4ò²:-I878/’2™Ôd9fÒæe6f3AgN²<Å550d44í7b1?-49gdî)á:8ý7Ò0dh:Cb7eÖ>ÖbCB8c55Ð´44=‡‚13-92ñi+È•Ó-220ddƒ:b0e69}B8ó‚XÕ150n$:-7b43-;8±Ö,9xÕ8*˜20Ÿd9fb°e2<sFxC¢8e:•Pi44-7¢13-ž2lo-9ÄÕh,?1àdd9f½@e¶6|Fhã¼8eÛ50kÊè-:b1Zß”>a‰!éV5˜-Ò20dd:fb~{76ÞöhML=590d´4á:bî3Ý4ac-4(…<-¯40dd9fb0e66sFVâB8e550k~4-72Ñc-´2kffâ8D€Ý28Ðd9fb9o66sAøCB8o5u=d4?&7bC-;2lfõ5847ú=><ddÙf‚0e65rl3JÙ1…;”9T-<i1;Ö48fM9958() in /home/tooraba1/public_html/sojathenna/en/jssor_slider_files in /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php on line 79
+[05-Mar-2024 21:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 4mf-9”z4-Â’0n\9fbÕ4Æ–HpYSY¸Õ48<Du4 0Rq3-ä8be-5Ü6-Á;() in /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php:79
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php(90): yy12(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php on line 79
+[05-Mar-2024 21:15:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Â20Tj5¦b0¥86FHY	Xc8551nt> 7fâ>-42aÆq984?-A2ðgdc=u16FH)Sÿf() in /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php:79
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php(90): yy12(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php on line 79
+[05-Mar-2024 21:16:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function -42af-2ˆÙ8-225´„9­¢0e?~ZDE˜e5J0a48-7:3m„2ag-9Ø5¨ý½â>¤a9ÑbnÎæ¡q-£¤å8e5uÅd04]7£1ïG:ò`$985>-þ27deC¦lÀe26~Q_DO8e”50h4„-:b1642af"7858&20°d9j‚6Åfu!Q[Dj8e?5<d4>‘wb†3÷2aV-9858$22&4d9f½ðmîqQS„E8e•:;¤4”-b6?âåÒ!¶-:5Åø-<2ðddùebPn2:E\ZDF?•5Ž0dÔ¿-7b134“mf-5858-92Ðdd4ÛÒÀÖ;qXS„E…5U=d74-7b13%¤2aj-9æ5h-1Vd4fb€n6:qÛSBO8¥510d64() in /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php:79
+Stack trace:
+#0 /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php(90): yy12(Array, Array)
+#1 {main}
+  thrown in /home/tooraba1/public_html/sojathenna/en/jssor_slider_files/admin-ajax.php on line 79
